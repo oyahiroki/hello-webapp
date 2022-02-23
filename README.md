@@ -2,3 +2,7 @@
 
 Example of Java Web App
 
+# How to run
+
+	mvn jetty:run
+
